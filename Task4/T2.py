@@ -1,8 +1,4 @@
-
-
-
-
-# Task 2
+# Sum of max and min primes
 def sum_of_max_min_primes(num):
     num_str = str(num)
     maxi = int(num_str[0])
